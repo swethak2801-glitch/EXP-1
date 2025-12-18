@@ -76,13 +76,6 @@ b.  KCL:
 
 <img width="607" height="295" alt="Screenshot 2025-12-16 220531" src="https://github.com/user-attachments/assets/79141d9e-84c7-4f77-870c-470c2d0a9720" />
 
-DEVELOPED BY:SWETHA K
-REF NO:25014909
-
-
-
-
-
 
 RESULT:
 
